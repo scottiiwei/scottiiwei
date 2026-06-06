@@ -48,6 +48,12 @@ I also love traveling and experiencing different cultures, cities, languages, an
 
 ---
 
+## Outside work
+
+I enjoy marathon running and swimming, and I once went from 85kg to 65kg. To me, that was more than a physical change. It was a lesson in patience, discipline, and self-renewal. Travel is also an important part of my life. I like experiencing different cultures, cities, and ways of living. The scenery does not always have to be perfect. Sometimes one moment is enough: being there, in that place, with someone I love. My dream is to travel around the world.
+
+---
+
 ## How I think
 
 ```text

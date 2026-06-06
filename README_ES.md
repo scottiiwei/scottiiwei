@@ -48,6 +48,12 @@ También me encanta viajar y sentir distintas culturas, ciudades, idiomas y form
 
 ---
 
+## Fuera del trabajo
+
+Me gustan el maratón y la natación, y una vez bajé de 85kg a 65kg. Para mí, eso fue más que un cambio físico. Fue una lección de paciencia, disciplina y renovación personal. Viajar también es una parte importante de mi vida. Me gusta sentir distintas culturas, ciudades y formas de vivir. El paisaje no siempre tiene que ser perfecto. A veces basta un instante: estar allí, en ese lugar, con alguien que amo. Mi sueño es viajar alrededor del mundo.
+
+---
+
 ## Cómo pienso
 
 ```text
