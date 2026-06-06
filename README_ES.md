@@ -66,18 +66,6 @@ Usar la IA para hacer el trabajo más inteligente, no más ruidoso.
 
 ---
 
-## GitHub
-
-<div align="center">
-
-![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottiiwei&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scottiiwei&layout=compact&hide_border=true)
-
-</div>
-
----
-
 ## Contacto
 
 - GitHub: [@scottiiwei](https://github.com/scottiiwei)
